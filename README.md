@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @shivankshukla871
+- I'm an Angular Developer.
 - 👀 I’m interested in Python,Framework,Machine Learning.
 - 🌱 I’m currently learning Machine Learning and Frameworks.
 - 💞️ I’m looking to collaborate on Trainings and Projects that could help me learn practically.
